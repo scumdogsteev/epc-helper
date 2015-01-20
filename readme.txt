@@ -7,8 +7,8 @@
 *****       Author:  Steve Myles                                     *****
 *****                steve@mylesandmyles.info                        *****
 *****                http://projects.mylesandmyles.info/epc-helper/  *****
-*****      License:  MIT license (see license.txt accompanying       *****
-*****                this distribution).                             *****
+*****      License:  MIT license (see LICENSE accompanying this      *****
+*****                distribution).                                  *****
 *****    Changelog:  See changelog.txt accompanying this             *****
 *****                distribution.                                   *****
 *****                                                                *****
