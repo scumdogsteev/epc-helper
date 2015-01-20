@@ -23,7 +23,7 @@ ePubCheck, taking care of the command line details for you.  The script
 outputs ePubCheck's log to a .txt file in the directory with the original EPUB
 file.
 
--[ notes ]-
+### notes
 
 I know this isn't the first utility of its kind (for instance, EPUB-CHECKER
 (http://www.pagina-online.de/software/epub-checker/) seems to be a good one
@@ -34,3 +34,8 @@ be helpful for someone.
 
 I am by no means an expert at batch scripting.  I welcome [comments on this
 script](http://steve.mylesandmyles.info/post/60586587794/epubcheck-helper#disqus_thread).
+
+### acknowledgment
+
+Date parsing is taken from Rob van der Woude:
+http://www.robvanderwoude.com/datetimentparse.php
