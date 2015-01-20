@@ -1,19 +1,19 @@
-:: **************************************************************************
-:: **************************************************************************
-:: *****                                                                *****
-:: *****         Name:  ePubCheck Helper                                *****
-:: *****     Filename:  epc-helper.bat                                  *****
-:: *****      Version:  0.1.0-a                                         *****
-:: *****       Author:  Steve Myles                                     *****
-:: *****                steve@mylesandmyles.info                        *****
-:: *****                http://steve.mylesandmyles.info/projects/       *****
-:: *****      License:  MIT license (see license.txt accompanying       *****
-:: *****                this distribution).                             *****
-:: *****    Changelog:  See changelog.txt accompanying this             *****
-:: *****                distribution.                                   *****
-:: *****                                                                *****
-:: **************************************************************************
-:: **************************************************************************
+**************************************************************************
+**************************************************************************
+*****                                                                *****
+*****         Name:  ePubCheck Helper                                *****
+*****     Filename:  epc-helper.bat                                  *****
+*****      Version:  0.1.0-a                                         *****
+*****       Author:  Steve Myles                                     *****
+*****                steve@mylesandmyles.info                        *****
+*****                http://projects.mylesandmyles.info/epc-helper/  *****
+*****      License:  MIT license (see license.txt accompanying       *****
+*****                this distribution).                             *****
+*****    Changelog:  See changelog.txt accompanying this             *****
+*****                distribution.                                   *****
+*****                                                                *****
+**************************************************************************
+**************************************************************************
 
 -[ background ]-
 
@@ -105,4 +105,4 @@ http://www.robvanderwoude.com/datetimentparse.php
 -[ project home ] -
 
 Project URL (for updates and the latest version):
-http://steve.mylesandmyles.info/projects/epc-helper/
+http://projects.mylesandmyles.info/epc-helper/
