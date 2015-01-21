@@ -4,7 +4,7 @@ Version:  0.1.0-a
 
 Author:  Steve Myles (steve@mylesandmyles.info)
 
-Project Home:  http://projects.mylesandmyles.info/epc-helper/
+Project Home:  http://steve.mylesandmyles.info/projects/epc-helper/
 
 License:  MIT license (see [LICENSE](https://github.com/scumdogsteev/epc-helper/blob/master/LICENSE) accompanying this distribution).
 
