@@ -6,7 +6,7 @@
 *****      Version:  0.1.0-a                                         *****
 *****       Author:  Steve Myles                                     *****
 *****                steve@mylesandmyles.info                        *****
-*****                http://projects.mylesandmyles.info/epc-helper/  *****
+*****          http://steve.mylesandmyles.info/projects/epc-helper/  *****
 *****      License:  MIT license (see LICENSE accompanying this      *****
 *****                distribution).                                  *****
 *****    Changelog:  See changelog.txt accompanying this             *****
@@ -105,4 +105,4 @@ http://www.robvanderwoude.com/datetimentparse.php
 -[ project home ] -
 
 Project URL (for updates and the latest version):
-http://projects.mylesandmyles.info/epc-helper/
+http://steve.mylesandmyles.info/projects/epc-helper/
